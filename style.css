@@ -139,4 +139,9 @@ footer .social-links a {
     font-size: 40px;
     line-height: 1.5;
   }
+  .launch-link {
+    text-align: center;
+    display: block;
+    margin: 0 15px;
+  }
 }
