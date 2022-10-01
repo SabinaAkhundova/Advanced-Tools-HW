@@ -144,4 +144,7 @@ footer .social-links a {
     display: block;
     margin: 0 15px;
   }
+  .paragraph {
+    text-align: center;
+  }
 }
