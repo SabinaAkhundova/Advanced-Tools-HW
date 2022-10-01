@@ -131,3 +131,12 @@ footer .social-links a {
   padding: 10px 14px;
   border-radius: 50px;
 }
+@media (max-width: 576px) {
+  h2 {
+    font-size: 30px;
+  }
+  h1 {
+    font-size: 40px;
+    line-height: 1.5;
+  }
+}
