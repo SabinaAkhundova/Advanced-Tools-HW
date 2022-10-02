@@ -158,3 +158,21 @@ footer .social-links a {
     text-align: center;
   }
 }
+@media (max-width: 280px) {
+  .navigation-links {
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+  }
+
+  .navigation-links a {
+    margin: 15px;
+    border-radius: 4px;
+    padding: 10px 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+  }
+  h1 {
+    font-size: 24px;
+  }
+}
