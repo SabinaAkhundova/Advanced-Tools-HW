@@ -133,13 +133,23 @@ footer .social-links a {
 }
 @media (max-width: 576px) {
   h2 {
-    font-size: 30px;
+    font-size: 28px;
   }
   h1 {
     font-size: 40px;
     line-height: 1.5;
   }
+  h5 {
+    font-size: 15px;
+    line-height: 1.5;
+  }
   .launch-link {
+    text-align: center;
+    display: block;
+    margin: 0 15px;
+  }
+  .email-link {
+    font-size: 20px;
     text-align: center;
     display: block;
     margin: 0 15px;
